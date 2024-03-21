@@ -1,0 +1,17 @@
+
+.app {
+  text-align: center;
+}
+
+.charts-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.chart {
+  width: 400px;
+  margin: 20px;
+}
+
